@@ -1,0 +1,1 @@
+{"name":"Local: A_1475","url":"c:\\Users\\Shuvo\\Python\\Problem_Solving\\CodeForces\\A_1475.py","tests":[{"id":1732130020748,"input":"6\n2\n3\n4\n5\n998244353\n1099511627776\n","output":"NO\nYES\nNO\nYES\nYES\nNO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Shuvo\\Python\\Problem_Solving\\CodeForces\\A_1475.py","group":"local","local":true}
