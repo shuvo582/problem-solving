@@ -1,0 +1,1 @@
+{"name":"Local: TEST","url":"c:\\Users\\Shuvo\\Python\\Problem_Solving\\SPOJ\\TEST.py","tests":[{"id":1732305183082,"input":"1\n2\n88\n42\n99\n","output":"1\n2\n88"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Shuvo\\Python\\Problem_Solving\\SPOJ\\TEST.py","group":"local","local":true}

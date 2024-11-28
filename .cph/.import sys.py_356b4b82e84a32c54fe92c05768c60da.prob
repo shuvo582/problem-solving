@@ -1,0 +1,1 @@
+{"name":"Local: import sys","url":"c:\\Users\\Shuvo\\Python\\Problem_Solving\\import sys.py","tests":[{"id":1732346945885,"input":"2\n1 10\n3 5","output":"2\n3\n5\n7\n\n3\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Shuvo\\Python\\Problem_Solving\\import sys.py","group":"local","local":true}
